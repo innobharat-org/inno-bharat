@@ -108,7 +108,7 @@ export const testimonials = [
   {
     quote:
       "Collaborating with InnoBharat Team was an absolute pleasure. Their professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. InnoBharat Team's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, InnoBharat can be the best ideal partner.",
-    name: "Dovono",
+    name: "Dovono Isho",
     title: "Founder of AlphaCrest Innovations",
   },
   {
